@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco De Palma</h1>
 <h3 align="center">A software developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-depalma&label=Profile%20views&color=0e75b6&style=flat" alt="f-depalma" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=f-depalma&label=Profile%20views&color=0e75b6&style=flat" alt="f-depalma" /> </p>
 
 - 🔭 I’m currently working on [Dashboard](https://github.com/f-depalma/dashboard)
 
