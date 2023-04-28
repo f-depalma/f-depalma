@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [www.francescodepalma.com](www.francescodepalma.com)
+- 👨‍💻 All of my projects are available at <a href="www.francescodepalma.com">My website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
